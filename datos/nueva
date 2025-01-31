@@ -1,0 +1,13 @@
+tipo:diesel:10000:300.0
+tipo:extra:20000:150.0
+tipo:corriente:15000:15000.0
+tipo:pro diesel:12000:100.0
+surtidor:Vale:diesel:0.0:extra:0.0:corriente:0.0:pro diesel:0.0
+surtidor:Camilo:diesel:0.0:extra:0.0:corriente:0.0:pro diesel:0.0
+surtidor:Camilo:diesel:0.0:extra:0.0:corriente:0.0:pro diesel:0.0
+surtidor:Juan:diesel:0.0:extra:0.0:corriente:0.0:pro diesel:0.0
+empleado:Andres:0
+empleado:Camilo:0
+empleado:Juan:0
+empleado:Vale:0
+empleado:Carlos:0
